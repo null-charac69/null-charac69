@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anant a.k.a @null-charac69
-- 👀 I am a mechanical engineering student at NIT Srinagar.
-- 🌱 I’m currently learning Machine learning.
+- 👀 I am an Generative AI Engineer.
+- 🌱 I have a degree in Mechanical Engineering (NIT Srinagar).
 - 📫 You can reach me at https://www.linkedin.com/in/anant-kumar-b12976178/.
 
 <!---
